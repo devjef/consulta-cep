@@ -1,5 +1,5 @@
 # consultaCPF
-Tela de com get para API de CPF
+Tela de com get para API de CPF usando fetch
 
 
 #API DOC
