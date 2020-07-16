@@ -1,7 +1,7 @@
-# consultaCPF
-Tela de com get para API de CPF usando fetch
+# consultaCEP
+Tela de com get para API de CEP usando fetch
 
-Visualização: https://devjef.github.io/consulta-cpf/
+Visualização: https://devjef.github.io/consulta-cep/
 
 
 #API DOC
