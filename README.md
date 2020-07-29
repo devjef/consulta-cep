@@ -1,8 +1,6 @@
 # consultaCEP
-Tela de com get para API de CEP usando fetch
+> Projeto para consulta de CEP na API da VIACEP.
 
-Visualização: https://devjef.github.io/consulta-cep/
+[Ver Projeto](https://devjef.github.io/consulta-cep/)
 
-
-#API DOC
-https://viacep.com.br/
+[API VIA CEP](https://viacep.com.br/)
